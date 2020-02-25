@@ -1,6 +1,16 @@
 {
     "title": "UML Class",
     "items": [
+        
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": " Диаграмма классов "
+                }
+            ]
+        },
+        
         {
             "type": "image",
             "data": "img/Лаба2.png"
