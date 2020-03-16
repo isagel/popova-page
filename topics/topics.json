@@ -39,6 +39,12 @@
         "id": 7,
         "title": "План",
         "description": "План",
+        "preview": ""
+    }
+    {
+        "id": 8,
+        "title": "Семинары",
+        "description": "Семинары",
         "preview": "img/PlanB.jpg"
     }
 ]
